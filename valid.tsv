@@ -1,4 +1,4 @@
-id	label	statement	subjects	speaker	job	state	affiliation	barely_true	false	half_true	mostly_true	pants_on_fire	context
+id	label	statement	subjects	speaker	job	state	affiliation	barely_true_c	false_c	half_true_c	mostly_true_c	pants_on_fire_c	context
 12134.json	barely-true	We have less Americans working now than in the 70s.	economy,jobs	vicky-hartzler	U.S. Representative	Missouri	republican	1	0	1	0	0	an interview with ABC17 News
 238.json	pants-fire	When Obama was sworn into office, he DID NOT use the Holy Bible, but instead the Kuran (Their equivalency to our Bible, but very different beliefs).	obama-birth-certificate,religion	chain-email			none	11	43	8	5	105	
 7891.json	false	Says Having organizations parading as being social welfare organizations and then being involved in the political combat harkens back to why the statute a hundred years ago said that they were prohibited.	campaign-finance,congress,taxes	earl-blumenauer	U.S. representative	Oregon	democrat	0	1	1	1	0	a U.S. Ways and Means hearing
