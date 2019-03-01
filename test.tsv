@@ -1,4 +1,3 @@
-id	label	statement	subjects	speaker	job	state	affiliation	barely_true_c	false_c	half_true_c	mostly_true_c	pants_on_fire_c	context
 11972.json	true	Building a wall on the U.S.-Mexico border will take literally years.	immigration	rick-perry	Governor	Texas	republican	30	30	42	23	18	Radio interview
 11685.json	false	Wisconsin is on pace to double the number of layoffs this year.	jobs	katrina-shankland	State representative	Wisconsin	democrat	2	1	0	0	0	a news conference
 11096.json	false	Says John McCain has done nothing to help the vets.	military,veterans,voting-record	donald-trump	President-Elect	New York	republican	63	114	51	37	61	comments on ABC's This Week.
